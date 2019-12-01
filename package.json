@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/fosterferret/PhotoShare-App-GraphQL/issues"
   },
-  "homepage": "https://github.com/fosterferret/PhotoShare-App-GraphQL#readme"
+  "homepage": "https://github.com/fosterferret/PhotoShare-App-GraphQL#readme",
+  "devDependencies": {
+    "eslint": "^6.7.2"
+  }
 }
